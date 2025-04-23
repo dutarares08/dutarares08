@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dutarares08
 - 👀 I’m interested in building cool web apps
-- 🌱 I’m currently learning Next.JS and Redux Tolkit :)
+- 🌱 I’m currently mastering Next.JS and Prisma ORM and Redux Tolkit :)
 - 📫 How to reach me: rares.duta2001@gmail.com
 
 <!---
